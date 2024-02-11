@@ -1,0 +1,33 @@
+.bg{
+    background-color: rgb(108, 70, 143);
+}
+.bg-part1{
+    background-color: rgb(141, 141, 199)!important;
+}
+.box{
+    width: 70%!important;
+}
+.card-title{
+    color: yellow!important;
+    text-transform: capitalize;
+}
+.head1{
+    color: yellow;
+
+} 
+.head2{
+    color: white;
+    text-transform: capitalize;
+}
+.line{
+ 
+    
+    border-bottom: 3px solid rgb(255, 217, 0);
+    background-color: lightgrey;
+  }
+.card-img-top{
+    object-fit: contain;
+    width: 250px;
+    height: 200px;
+
+}
